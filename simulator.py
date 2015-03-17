@@ -1,6 +1,5 @@
 '''
 Adrian Arcilla
-Perm: 5621933
 Resources:
 	http://stackoverflow.com/questions/20955543/python-writing-binary
 	http://stackoverflow.com/questions/1035340/reading-binary-file-in-python
